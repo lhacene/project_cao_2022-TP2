@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: O:\progettp2\project_cao_2022-TP2\hardware\MiniRobot.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=fabrication-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=fabrication-nonplated.txt|LayerPairs=gtl,gbl
